@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477640688099",
+    "project_id": "tourisaaa-33727",
+    "storage_bucket": "tourisaaa-33727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477640688099:android:dea110dffdb38e31be20d6",
+        "android_client_info": {
+          "package_name": "com.example.touristaaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCnBwecygIMyrOmnpppUOwJdkGNcnMysw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
